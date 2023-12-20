@@ -27,7 +27,7 @@ Welcome to Day 12 of the 100 Days of Python Challenge! Today, we'll be diving in
 ## Usage:
 
 ```bash
-python number_guessing_game.py
+python day_twelve.py
 ```
 
 ## Example Output:
