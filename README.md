@@ -35,18 +35,21 @@ python number_guessing_game.py
 ```plaintext
 Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
-pssst! the correct answer is 29.
-select a diffulty level 'easy' or 'hard':
+pssst! the correct answer is 37.
+select a diffulty level 'easy' or 'hard': easy.
 
+you have 10 number of guesses remaining. 
 Enter your guess: 50
 Too high!.
+you have 9 number of guesses remaining.
 guess again
 
 Enter your guess: 25
+you have 8 number of guesses remaining.
 Too low! Try again.
 
 Enter your guess: 37
-Congratulations! You guessed the correct number in 3 attempts.
+you got it right!.
 ```
 
 Feel free to modify and enhance the game as you wish. Happy coding!
